@@ -1,2 +1,3 @@
-# sella-pratiwi
-UAS Pemrograman Berbasis Perangkat Bergerak
+# uas_sella
+
+A new Flutter project.
